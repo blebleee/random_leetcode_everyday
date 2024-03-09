@@ -10,3 +10,6 @@
 - Mar 4 2024 - [948](https://leetcode.com/problems/bag-of-tokens/description) - Thanks [Inam_28_06](https://leetcode.com/Inam_28_06/) for the solution
  - Mar 5 2024 - [1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description)
  - Mar 6 2024 - [141](https://leetcode.com/problems/linked-list-cycle/description)
+ - Mar 7 2024 - [876](https://leetcode.com/problems/middle-of-the-linked-list/description)
+ - Mar 8 2024 - [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/description)
+ - Mar 9 2024 - [2540](https://leetcode.com/problems/minimum-common-value/description)
