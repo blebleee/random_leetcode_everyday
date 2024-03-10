@@ -13,3 +13,4 @@
  - Mar 7 2024 - [876](https://leetcode.com/problems/middle-of-the-linked-list/description)
  - Mar 8 2024 - [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/description)
  - Mar 9 2024 - [2540](https://leetcode.com/problems/minimum-common-value/description)
+ - Mar 10 2024 - [349](https://leetcode.com/problems/intersection-of-two-arrays/description)
