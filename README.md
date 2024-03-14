@@ -15,3 +15,6 @@
  - Mar 9 2024 - [2540](https://leetcode.com/problems/minimum-common-value/description)
  - Mar 10 2024 - [349](https://leetcode.com/problems/intersection-of-two-arrays/description)
  - Mar 11 2024 - [791](https://leetcode.com/problems/custom-sort-string/description)
+ - Mar 12 2024 - [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description) thanks Hunter_0718 for the solution
+ - Mar 13 2024 - [2485](https://leetcode.com/problems/find-the-pivot-integer/description)
+ - Mar 14 2024 - [930](https://leetcode.com/problems/binary-subarrays-with-sum/description)
