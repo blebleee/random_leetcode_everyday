@@ -18,3 +18,4 @@
  - Mar 12 2024 - [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description) thanks Hunter_0718 for the solution
  - Mar 13 2024 - [2485](https://leetcode.com/problems/find-the-pivot-integer/description)
  - Mar 14 2024 - [930](https://leetcode.com/problems/binary-subarrays-with-sum/description)
+ - Mar 15 2024 - [238](https://leetcode.com/problems/product-of-array-except-self/description)
