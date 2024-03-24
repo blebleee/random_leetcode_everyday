@@ -15,7 +15,7 @@
  - Mar 9 2024 - [2540](https://leetcode.com/problems/minimum-common-value/description)
  - Mar 10 2024 - [349](https://leetcode.com/problems/intersection-of-two-arrays/description)
  - Mar 11 2024 - [791](https://leetcode.com/problems/custom-sort-string/description)
- - Mar 12 2024 - [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description) thanks Hunter_0718 for the solution
+ - Mar 12 2024 - [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description) Thanks Hunter_0718 for the solution
  - Mar 13 2024 - [2485](https://leetcode.com/problems/find-the-pivot-integer/description)
  - Mar 14 2024 - [930](https://leetcode.com/problems/binary-subarrays-with-sum/description)
  - Mar 15 2024 - [238](https://leetcode.com/problems/product-of-array-except-self/description)
@@ -24,3 +24,7 @@
  - Mar 18 2024 - [452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description)
  - Mar 19 2024 - [621](https://leetcode.com/problems/task-scheduler/description)
  - Mar 20 2024 - [1669](https://leetcode.com/problems/merge-in-between-linked-lists/description)
+ - Mar 21 2024 - [206](https://leetcode.com/problems/reverse-linked-list/description)
+ - Mar 22 2024 - [234](https://leetcode.com/problems/palindrome-linked-list/description)
+ - Mar 23 2024 - [143](https://leetcode.com/problems/reorder-list/description) Thanks anwengeng for the solution
+ - Mar 24 2024 - [287](https://leetcode.com/problems/find-the-duplicate-number/description)
