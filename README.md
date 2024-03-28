@@ -28,3 +28,7 @@
  - Mar 22 2024 - [234](https://leetcode.com/problems/palindrome-linked-list/description)
  - Mar 23 2024 - [143](https://leetcode.com/problems/reorder-list/description) Thanks anwengeng for the solution
  - Mar 24 2024 - [287](https://leetcode.com/problems/find-the-duplicate-number/description)
+ - Mar 25 2024 - [442](https://leetcode.com/problems/find-all-duplicates-in-an-array/description)
+ - Mar 26 2024 - [41](https://leetcode.com/problems/first-missing-positive) not an optimal solution, still O(n) space
+ - Mar 27 2024 - [713](https://leetcode.com/problems/subarray-product-less-than-k)
+ - Mar 28 2024 - [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description)
