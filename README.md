@@ -32,3 +32,8 @@
  - Mar 26 2024 - [41](https://leetcode.com/problems/first-missing-positive) not an optimal solution, still O(n) space
  - Mar 27 2024 - [713](https://leetcode.com/problems/subarray-product-less-than-k)
  - Mar 28 2024 - [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description)
+ - Mar 29 2024 - []()
+ - Mar 30 2024 - []()
+ - Mar 31 2024 - []()
+ - Apr 1 2024 - [58](https://leetcode.com/problems/length-of-last-word/description)
+ - Apr 2 2024 - [205](https://leetcode.com/problems/isomorphic-strings/description)
