@@ -37,3 +37,5 @@
  - Mar 31 2024 - []()
  - Apr 1 2024 - [58](https://leetcode.com/problems/length-of-last-word/description)
  - Apr 2 2024 - [205](https://leetcode.com/problems/isomorphic-strings/description)
+ - Apr 3 2024 - [79](https://leetcode.com/problems/word-search/description)
+ - Apr 4 2024 - [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description)
