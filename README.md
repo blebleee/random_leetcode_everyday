@@ -40,3 +40,7 @@
  - Apr 3 2024 - [79](https://leetcode.com/problems/word-search/description)
  - Apr 4 2024 - [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description)
  - Apr 5 2024 - [1544](https://leetcode.com/problems/make-the-string-great/description)
+ - Apr 6 2024 - [1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)
+ - Apr 7 2024 - [678](https://leetcode.com/problems/valid-parenthesis-string/description)
+ - Apr 8 2024 - [1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description)
+ - Apr 9 2024 - [2073](https://leetcode.com/problems/time-needed-to-buy-tickets/)
