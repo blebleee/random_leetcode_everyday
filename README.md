@@ -44,3 +44,9 @@
  - Apr 7 2024 - [678](https://leetcode.com/problems/valid-parenthesis-string/description)
  - Apr 8 2024 - [1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description)
  - Apr 9 2024 - [2073](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+ - Apr 10 2024
+ - Apr 11 2024 
+ - Apr 12 2024
+ - Apr 13 2024
+ - Apr 14 2024
+ - Apr 15 2024 - [129](https://leetcode.com/problems/sum-root-to-leaf-numbers)
