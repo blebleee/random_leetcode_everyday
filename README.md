@@ -50,3 +50,7 @@
  - Apr 13 2024
  - Apr 14 2024
  - Apr 15 2024 - [129](https://leetcode.com/problems/sum-root-to-leaf-numbers)
+ - Apr 16 2024 - [623](https://leetcode.com/problems/add-one-row-to-tree)
+ - Apr 17 2024 - [988](https://leetcode.com/problems/smallest-string-starting-from-leaf)
+ - Apr 18 2024 - [463](https://leetcode.com/problems/island-perimeter)
+ - Apr 19 2024 - [200](https://leetcode.com/problems/number-of-islands)
